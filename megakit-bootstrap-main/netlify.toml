@@ -1,6 +1,6 @@
 [build]
-functions = "netlify/functions"
 base = "megakit-bootstrap-main"
+functions = "netlify/functions"
 publish = "theme"
 command = "npm run build"
 
