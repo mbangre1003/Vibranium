@@ -2,7 +2,7 @@
   "name": "megakit",
   "version": "1.0.0",
   "description": "VibraniumLife free multipurpose template",
-  "author": "Themefisher",
+  "author": "VibraniumLife",
   "license": "MIT",
   "scripts": {
     "dev": "gulp",

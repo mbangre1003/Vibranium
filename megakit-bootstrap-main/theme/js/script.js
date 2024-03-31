@@ -1,8 +1,8 @@
 /**
- * WEBSITE: https://themefisher.com
- * TWITTER: https://twitter.com/themefisher
- * FACEBOOK: https://www.facebook.com/themefisher
- * GITHUB: https://github.com/themefisher/
+ * WEBSITE: https://VibraniumLife.com
+ * TWITTER: https://twitter.com/VibraniumLife
+ * FACEBOOK: https://www.facebook.com/VibraniumLife
+ * GITHUB: https://github.com/VibraniumLife/
  */
 
 (function ($) {

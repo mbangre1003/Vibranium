@@ -1,17 +1,17 @@
-# VibraniumLife By Themefisher
+# VibraniumLife By VibraniumLife
 
 VibraniumLife is a well-crafted, versatile and unique HTML5 agency template. Its wonderful features can be used to enhance the websites of IT firms, digital agencies, and creative professionals.
 
 <!-- demo -->
 ## Example Site
 
-| [![](screenshots/homepage.png)](https://demo.themefisher.com/VibraniumLife/) | [![](screenshots/about.png)](https://demo.themefisher.com/VibraniumLife/about.html) | [![](screenshots/service.png)](https://demo.themefisher.com/VibraniumLife/service.html) |
+| [![](screenshots/homepage.png)](https://demo.VibraniumLife.com/VibraniumLife/) | [![](screenshots/about.png)](https://demo.VibraniumLife.com/VibraniumLife/about.html) | [![](screenshots/service.png)](https://demo.VibraniumLife.com/VibraniumLife/service.html) |
 |:---:|:---:|:---:|
 | **Homepage**  | **About**  | **Service**  |
-| [![](screenshots/portfolio.png)](https://demo.themefisher.com/VibraniumLife/project.html) | [![](screenshots/blog.png)](https://demo.themefisher.com/VibraniumLife/blog-grid.html) | [![](screenshots/contact.png)](https://demo.themefisher.com/VibraniumLife/contact.html) |
+| [![](screenshots/portfolio.png)](https://demo.VibraniumLife.com/VibraniumLife/project.html) | [![](screenshots/blog.png)](https://demo.VibraniumLife.com/VibraniumLife/blog-grid.html) | [![](screenshots/contact.png)](https://demo.VibraniumLife.com/VibraniumLife/contact.html) |
 | **Portfolio** | **Blogs** | **Contact** |
 
-👉🏻[View Live Preview](https://demo.themefisher.com/VibraniumLife/)
+👉🏻[View Live Preview](https://demo.VibraniumLife.com/VibraniumLife/)
 
 <!-- pages -->
 ## Pages
@@ -29,7 +29,7 @@ VibraniumLife is a well-crafted, versatile and unique HTML5 agency template. Its
 <!-- download -->
 ## Download And installation
 
-Download this template from [Github](https://github.com/themefisher/VibraniumLife/archive/main.zip)
+Download this template from [Github](https://github.com/VibraniumLife/VibraniumLife/archive/main.zip)
 
 <!-- installation -->
 ### Basic Usages
@@ -79,25 +79,25 @@ npm run build
 
 Now you get a `theme` folder that has all the changes you have made. you can use this folder as your main theme.
 
-👉🏻 [visit documentation](https://docs.themefisher.com/VibraniumLife/)
+👉🏻 [visit documentation](https://docs.VibraniumLife.com/VibraniumLife/)
 
 <!-- reporting issue -->
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the VibraniumLife Template. Please Search [existing issues](https://github.com/themefisher/VibraniumLife/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/VibraniumLife/issues).
+We use GitHub Issues as the official bug tracker for the VibraniumLife Template. Please Search [existing issues](https://github.com/VibraniumLife/VibraniumLife/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/VibraniumLife/VibraniumLife/issues).
 
 <!-- support -->
 ## Technical Support or Questions (Paid)
 
-If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
+If you have questions or need help integrating the product please [contact us](mailto:mehedi@VibraniumLife.com) instead of opening an issue.
 
 <!-- licence -->
 ## License
 
-Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
+Copyright (c) 2016 - Present, Designed & Developed by [VibraniumLife](https://VibraniumLife.com)
 
-**Code License:** Released under the [MIT](https://github.com/themefisher/VibraniumLife/blob/main/LICENSE) license.
+**Code License:** Released under the [MIT](https://github.com/VibraniumLife/VibraniumLife/blob/main/LICENSE) license.
 
 **Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
 
